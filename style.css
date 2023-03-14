@@ -1,0 +1,24 @@
+@import url("styles/main.css");
+@import url("styles/footer.css");
+@import url("styles/header.css");
+@import url("styles/about.css");
+@import url("styles/curriculo.css");
+
+:root {
+    --font-principal: 'Krona-one', sans-serif;
+    --font-secundaria: 'Montserrat', sans-serif;
+    --font-sobre-mim: 'Josefin Slab', sans-serif;
+    --preto: #000000;
+    --texto: #f6f6f6;
+    --branco: #ffffff;
+    --vermelho-transparente: rgba(242, 98, 98, 0.63);
+}
+
+
+body{
+    box-sizing: border-box;
+    background-color: var(--preto);
+    color: var(--texto);
+    font-size: 16px;
+}
+

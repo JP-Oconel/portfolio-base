@@ -1,0 +1,16 @@
+.lista__titulo {
+    font-size: 1.5rem;
+    list-style-type: disc;
+}
+
+.titulo2 {
+    font-family: var(--font-secundaria);
+    padding: 20px 30px;
+}
+
+.lista__1 {
+    list-style-type: disc;
+    font-size: 0.87rem;
+    padding: 10px 0px;
+}
+

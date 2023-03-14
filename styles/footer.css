@@ -1,0 +1,17 @@
+.rodape {
+    background-color: var(--vermelho-transparente);
+    text-align: center;
+    padding: 20px 0;
+    font-size: 1.12rem;
+}
+
+.curso {
+    text-decoration: none;
+    color: var(--texto);
+}
+
+.curso:hover {
+    font-weight: 600;
+    color: var(--preto);
+    font-family: var(--font-secundaria);
+}
